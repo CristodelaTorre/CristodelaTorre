@@ -12,11 +12,10 @@
 
 <div><img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/cartoon.webp" width="250" height="auto" /></div>
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el Tecnológico de San Pedro.
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales.** 
 - 💻 **Desarrollador Full Stack** con experiencia en aplicaciones escalables (Móviles, Web y Escritorio).
 - 🧠 Apasionado por la integración de **Inteligencia Artificial (NLP)** y el desarrollo de arquitecturas sólidas (C# / .NET / SQL Server).
 - 🏆 Participante destacado en **HackMTY 2025** y Ponente en el **CIESLAG 2024**.
-- 🚀 Actualmente en búsqueda activa de **Prácticas Profesionales**.
 
 ### Conecta conmigo 🌐
 - <a href="https://www.linkedin.com/in/cristofer-torres-dev/"><img height="22" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> **LinkedIn:** [cristofer-torres-dev](https://www.linkedin.com/in/cristofer-torres-dev/)
