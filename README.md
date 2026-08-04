@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/cartoon.gif" alt="Hi" width="100" /> 
 
-## ¡Hola, soy Cristofer Torres Avalos! 👋 
+## ¡Hola, soy Cristofer! 👋 
 
 <p align="center">
   <a href="https://github.com/CristodelaTorre">
